@@ -1,9 +1,5 @@
 package trees;
-
 /***************************************************************************************
-* Name       : Dane Coleman
-* Assignment : Tree Delete
-* Due Date   : 11/17/21
 * Description: Practicing Binary Search trees. Inserting, and Deleting. if number after delete isn't in file, insert it. otherwise, delete it.
 ****************************************************************************************/
 import java.io.File;
