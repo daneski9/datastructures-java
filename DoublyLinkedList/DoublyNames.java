@@ -2,9 +2,7 @@
 package DoublyLinkedList;
 
 /* Name       : Dane Coleman
- * Assignment : DoublyLinkedList(Names)
- * Due Date   : 10/10/21
- * Description: Practicing Doubly LinkedLists. Node, Doubly, and Driver classes.
+                Practicing Doubly LinkedLists. Node, Doubly, and Driver classes.
  * ************ Write a program that reads a list of students(first name) from a file.
  * ************ If names are unsorted, they must be placed in the Linkedlist in sorted order.
  * ************ We're using files, methods for doubly such as: insert, delete, and traverseAscending/Descending.*/
