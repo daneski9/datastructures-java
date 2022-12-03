@@ -1,8 +1,6 @@
 package SortingAlgorithms;
 
 /* Name       : Dane Coleman
- * Assignment : SortSearch
- * Due Date   : 10/26/21
  * Description: Sorting a two dimensional Array using Bubble sort, Selection sort, Shell sort, and Insertion sort. Also practicing Binary search. */
 import java.util.Arrays;
 import java.util.Scanner;
